@@ -1,0 +1,456 @@
+{
+  "saudi-arabia": {
+    "team": "Saudi Arabia team",
+    "logo-team": "/static/world-cup-2022/1-saudi-arabia/0.webp",
+    "condition": "Saudi-arabia",
+    "result": "1-2",
+    "images": [
+      {
+        "title": "Messi running",
+        "description": "Messi running with the ball",
+        "urlImage": "/static/world-cup-2022/1-saudi-arabia/1.webp"
+      },
+      {
+        "title": "Messi shooting the ball",
+        "description": "Messi shooting the ball to the goal",
+        "urlImage": "/static/world-cup-2022/1-saudi-arabia/2.webp"
+      },
+      {
+        "title": "Messi celebrating", 
+        "description": "Messi celebrating a goal",
+        "urlImage": "/static/world-cup-2022/1-saudi-arabia/3.webp"
+      },
+      {
+        "title": "Messi celebrating 2",
+        "description": "Messi celebrating a goal 2",
+        "urlImage": "/static/world-cup-2022/1-saudi-arabia/4.webp"
+      }
+    ]
+  },
+  "mexico": {
+    "team": "Mexico team",
+    "logo-team": "/static/world-cup-2022/2-mexico/0.webp",
+    "winner": "Argentina",
+    "result": "2-0",
+    "images": [
+      {
+        "title": "Messi shooting the ball camera back",
+        "description": "Messi shooting the ball to the first goal camera back",
+        "urlImage": "/static/world-cup-2022/2-mexico/2-mexico/1.webp"
+      },
+      {
+        "title": "Messi shooting the ball",
+        "description": "Messi shooting the ball to the first goal",
+        "urlImage": "/static/world-cup-2022/2-mexico/2-mexico/2.webp"
+      },
+      {
+        "title": "Messi facing the rival",
+        "description": "Messi facing the rival with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/2-mexico/2-mexico/3.webp"
+      },
+      {
+        "title": "Messi facing two rivals",
+        "description": "Messi facing two rivals with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/2-mexico/2-mexico/4.webp"
+      },
+      {
+        "title": "Messi celebrating the first goal",
+        "description": "Messi celebrating the first goal with his fans",
+        "urlImage": "/static/world-cup-2022/2-mexico/2-mexico/5.webp"
+      },
+      {
+        "title": "Messi scream the second goal",
+        "description": "Messi scream the second goal",
+        "urlImage": "/static/world-cup-2022/2-mexico/2-mexico/6.webp"
+      },
+      {
+        "title": "Messi celebrating win the match",
+        "description": "Messi celebrating win the match with his fans and teammates",
+        "urlImage": "/static/world-cup-2022/2-mexico/2-mexico/6.webp"
+      }
+    ]
+  },
+  "poland": {
+    "team": "Poland team",
+    "logo-team": "/static/world-cup-2022/3-poland/0.webp",
+    "winner": "Argentina",
+    "result": "2-0",
+    "images": [
+      {
+        "title": "Messi converting a goal",
+        "description": "Messi converting a goal of penalty",
+        "urlImage": "/static/world-cup-2022/3-poland/1.webp"
+      },
+      {
+        "title": "Messi facing Lewandowski",
+        "description": "Messi facing Lewandowski with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/3-poland/2.webp"
+      },
+      {
+        "title": "Messi greeting",
+        "description": "Messi greeting his fans",
+        "urlImage": "/static/world-cup-2022/3-poland/3.webp"
+      },
+      {
+        "title": "Messi kicking the ball",
+        "description": "Messi kicking the ball in the penalty",
+        "urlImage": "/static/world-cup-2022/3-poland/4.webp"
+      },
+      {
+        "title": "Messi facing two rivals",
+        "description": "Messi facing two rivals with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/3-poland/5.webp"
+      },
+      {
+        "title": "Messi with the ball in his feet",
+        "description": "Messi with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/3-poland/6.webp"
+      },
+      {
+        "title": "Messi facing the rival",
+        "description": "Messi facing the rival with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/3-poland/7.webp"
+      },
+      {
+        "title": "Messi celebating the victory",
+        "description": "Messi celebating the victory with his teammates and fans",
+        "urlImage": "/static/world-cup-2022/3-poland/8.webp"
+      }
+    ]
+  },
+  "australia": {
+    "team": "Australia team",
+    "logo-team": "/static/world-cup-2022/4-australia/0.webp",
+    "winner": "Argentina",
+    "result": "2-1",
+    "images": [
+      {
+        "title": "Messi kicking the ball",
+        "description": "Messi kicking at the goal",
+        "urlImage": "/static/world-cup-2022/4-australia/1.webp"
+      },
+      {
+        "title": "Messi celebrating the goal",
+        "description": "Messi celebrating the goal with his teammates",
+        "urlImage": "/static/world-cup-2022/4-australia/2.webp"
+      },
+      {
+        "title": "Messi facing", 
+        "description": "Messi facing the rival with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/4-australia/3.webp"
+      },
+      {
+        "title": "Messi facing three rivals",
+        "description": "Messi facing three rivals with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/4-australia/4.webp"
+      },
+      {
+        "title": "Messi scoring a goal",
+        "description": "Messi scoring a goal",
+        "urlImage": "/static/world-cup-2022/4-australia/5.webp"
+      },
+      {
+        "title": "Messi facing three rivals other angle",
+        "description": "Messi facing three rivals with the ball in his feet other angle",
+        "urlImage": "/static/world-cup-2022/4-australia/6.webp"
+      },
+      {
+        "title": "Messi facing the rival", 
+        "description": "Messi facing an opponent who catches him",
+        "urlImage": "/static/world-cup-2022/4-australia/7.webp"
+      },
+      {
+        "title": "Messi scoring a goal other angle",
+        "description": "Messi scoring a goal other angle",
+        "urlImage": "/static/world-cup-2022/4-australia/8.webp"
+      },
+      {
+        "title": "Messi facing two opponents",
+        "description": "Messi facing two opponents with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/4-australia/9.webp"
+      },
+      {
+        "title": "Messi shooting the ball at the goal",
+        "description": "Messi shooting the ball at the goal",
+        "urlImage": "/static/world-cup-2022/4-australia/10.webp"
+      },
+      {
+        "title": "Messi celebrating the goal", 
+        "description": "Messi celebrating the goal",
+        "urlImage": "/static/world-cup-2022/4-australia/11.webp"
+      }
+    ]
+  },
+  "netherlands": {
+    "team": "Netherlands team",
+    "logo-team": "/static/world-cup-2022/5-netherlands/0.webp",
+    "winner": "Argentina",
+    "result": "2-2(Penalty 4-3)",
+    "images": [
+      {
+        "title": "Messi facing three rivals",
+        "description": "Messi facing three rivals with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/5-netherlands/1.webp"
+      },
+      {
+        "title": "Messi goal assist",
+        "description": "Messi assist at the teammate",
+        "urlImage": "/static/world-cup-2022/5-netherlands/2.webp"
+      },
+      {
+        "title": "Messi Topo Gigio", 
+        "description": "Messi Topo Gigio to DT of Netherlands team",
+        "urlImage": "/static/world-cup-2022/5-netherlands/3.webp"
+      },
+      {
+        "title": "Messi celebrating the penalty",
+        "description": "Messi celebrating the penalty converted",
+        "urlImage": "/static/world-cup-2022/5-netherlands/4.webp"
+      },
+      {
+        "title": "Messi facing",
+        "description": "Messi facing the rival with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/5-netherlands/5.webp"
+      },
+      {
+        "title": "Messi Topo Gigio other angle",
+        "description": "Messi Topo Gigio to DT of Netherlands team other angle",
+        "urlImage": "/static/world-cup-2022/5-netherlands/6.webp"
+      },
+      {
+        "title": "Messi kicking the penalty", 
+        "description": "Messi kicking the penalty at the goal",
+        "urlImage": "/static/world-cup-2022/5-netherlands/7.webp"
+      },
+      {
+        "title": "Messi 'Que mira bobo'",
+        "description": "Messi 'Que mira bobo' to player of Netherlands team",
+        "urlImage": "/static/world-cup-2022/5-netherlands/8.webp"
+      },
+      {
+        "title": "Messi facing three opponents",
+        "description": "Messi facing three opponents with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/5-netherlands/9.webp"
+      },
+      {
+        "title": "Messi surrounded by rivals",
+        "description": "Messi surrounded by rivals with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/5-netherlands/10.webp"
+      },
+      {
+        "title": "Messi discussing with DT of Netherlands team", 
+        "description": "Messi discussing with DT of Netherlands team",
+        "urlImage": "/static/world-cup-2022/5-netherlands/11.webp"
+      }
+    ]
+  },
+  "croatia": {
+    "team": "Croatia team",
+    "logo-team": "/static/world-cup-2022/7-croatia/0.webp",
+    "winner": "Argentina",
+    "result": "3-0",
+    "images": [
+      {
+        "title": "Messi facing Gvardiol",
+        "description": "Messi facing Gvardiol with the ball in his fee",
+        "urlImage": "/static/world-cup-2022/6-croatia/1.webp"
+      },
+      {
+        "title": "Messi converting a goal",
+        "description": "Messi converting a goal with teammates",
+        "urlImage": "/static/world-cup-2022/6-croatia/2.webp"
+      },
+      {
+        "title": "Messi facing Gvardiol other angle", 
+        "description": "Messi facing Gvardiol with the ball in his feet other angle",
+        "urlImage": "/static/world-cup-2022/6-croatia/3.webp"
+      },
+      {
+        "title": "Messi facing the goal",
+        "description": "Messi facing the goal with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/6-croatia/4.webp"
+      },
+      {
+        "title": "Messi celebrating the goal",
+        "description": "Messi celebrating the goal",
+        "urlImage": "/static/world-cup-2022/6-croatia/5.webp"
+      },
+      {
+        "title": "Messi touch a pass",
+        "description": "Messi touch a pass to a teammate",
+        "urlImage": "/static/world-cup-2022/6-croatia/6.webp"
+      },
+      {
+        "title": "Messi celebrating a goal", 
+        "description": "Messi celebrating a goal",
+        "urlImage": "/static/world-cup-2022/6-croatia/7.webp"
+      },
+      {
+        "title": "Messi celebrating the goal",
+        "description": "Messi celebrating the goal with his fans",
+        "urlImage": "/static/world-cup-2022/6-croatia/8.webp"
+      },
+      {
+        "title": "Messi converting a goal",
+        "description": "Messi converting a goal of the penalty",
+        "urlImage": "/static/world-cup-2022/6-croatia/9.webp"
+      },
+      {
+        "title": "Messi facing",
+        "description": "Messi facing the opponent with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/6-croatia/10.webp"
+      }
+    ]
+  },
+  "france": {
+    "team": "France team",
+    "logo-team": "/static/world-cup-2022/7-france/0.webp",
+    "winner": "Argentina",
+    "result": "3-3(Penalty 4-2)",
+    "images": [
+      {
+        "title": "Messi facing Upamecano",
+        "description": "Messi facing Upamecano with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/7-france/1.webp"
+      },
+      {
+        "title": "Messi celebrating a goal",
+        "description": "Messi celebrating a goal with teammates",
+        "urlImage": "/static/world-cup-2022/7-france/2.webp"
+      },
+      {
+        "title": "Messi celebrating a goal other angle",
+        "description": "Messi celebrating a goal with teammates other angle",
+        "urlImage": "/static/world-cup-2022/7-france/3.webp"
+      },
+      {
+        "title": "Messi facing Upamecano other angle", 
+        "description": "Messi facing Upamecano with the ball in his feet other angle",
+        "urlImage": "/static/world-cup-2022/7-france/4.webp"
+      },
+      {
+        "title": "Messi facing Mbappe",
+        "description": "Messi facing Mbappe with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/7-france/5.webp"
+      },
+      {
+        "title": "Messi celebrating",
+        "description": "Messi celebrating a goal with his fans",
+        "urlImage": "/static/world-cup-2022/7-france/6.webp"
+      },
+      {
+        "title": "Messi scoring a goal", 
+        "description": "Messi scoring a goal of the penalty",
+        "urlImage": "/static/world-cup-2022/7-france/7.webp"
+      },
+      {
+        "title": "Messi facing Rabiot",
+        "description": "Messi facing Rabiot with the ball in his feet",
+        "urlImage": "/static/world-cup-2022/7-france/8.webp"
+      },
+      {
+        "title": "Messi celebrating the penalty converted",
+        "description": "Messi celebrating the penalty converted",
+        "urlImage": "/static/world-cup-2022/7-france/9.webp"
+      },
+      {
+        "title": "Messi celebrating third goal",
+        "description": "Messi celebrating third goal with his fans and teammates",
+        "urlImage": "/static/world-cup-2022/7-france/10.webp"
+      },
+      {
+        "title": "Messi scoring third goal",
+        "description": "Messi scoring third goal other angle",
+        "urlImage": "/static/world-cup-2022/7-france/11.webp"
+      }
+    ]
+  },
+  "arg-champion": {
+    "team": "Argentina team champions",
+    "logo-team": "/static/world-cup-2022/arg-champion/0.webp",
+    "winner": "Argentina",
+    "result": "Argentina Champion",
+    "images": [
+      {
+        "title": "Messi kissing the cup",
+        "description": "Messi kissing the cup",
+        "urlImage": "/static/world-cup-2022/arg-champion/1.webp"
+      },
+      {
+        "title": "Messi raising the cup",
+        "description": "Messi raising the cup with his teammates",
+        "urlImage": "/static/world-cup-2022/arg-champion/2.webp"
+      },
+      {
+        "title": "Messi raising the cup other angle",
+        "description": "Messi raising the cup with his teammates other angl",
+        "urlImage": "/static/world-cup-2022/arg-champion/3.webp"
+      },
+      {
+        "title": "Messi raising the cup with teammates", 
+        "description": "Messi raising the cup with his teammates",
+        "urlImage": "/static/world-cup-2022/arg-champion/4.webp"
+      },
+      {
+        "title": "Messi receive the award major player of world cup",
+        "description": "Messi receive the award major player of world cup",
+        "urlImage": "/static/world-cup-2022/arg-champion/5.webp"
+      },
+      {
+        "title": "Messi looking the cup",
+        "description": "Messi looking the cup",
+        "urlImage": "/static/world-cup-2022/arg-champion/6.webp"
+      },
+      {
+        "title": "Messi kissing the cup other angle", 
+        "description": "Messi kissing the cup other angle",
+        "urlImage": "/static/world-cup-2022/arg-champion/7.webp"
+      },
+      {
+        "title": "Messi looking the cup other angle",
+        "description": "Messi looking the cup other angle with his teammates",
+        "urlImage": "/static/world-cup-2022/arg-champion/8.webp"
+      },
+      {
+        "title": "Messi kissing the cup other angle 2",
+        "description": "Messi kissing the cup other angle 2",
+        "urlImage": "/static/world-cup-2022/arg-champion/9.webp"
+      },
+      {
+        "title": "Messi raising the cup with teammates",
+        "description": "Messi raising the cup with teammates other angle",
+        "urlImage": "/static/world-cup-2022/arg-champion/10.webp"
+      },
+      {
+        "title": "Messi champions of the world with Argentina",
+        "description": "Messi champions of the world with Argentina",
+        "urlImage": "/static/world-cup-2022/arg-champion/11.webp"
+      },
+      {
+        "title": "Messi caress the cup",
+        "description": "Messi caress the cup",
+        "urlImage": "/static/world-cup-2022/arg-champion/12.webp"
+      },
+      {
+        "title": "Messi raising the cup other angle",
+        "description": "Messi raising the cup other angle 3",
+        "urlImage": "/static/world-cup-2022/arg-champion/13.webp"
+      },
+      {
+        "title": "Messi raising the cup other angle 4",
+        "description": "Messi raising the cup other angle 4",
+        "urlImage": "/static/world-cup-2022/arg-champion/14.webp"
+      },
+      {
+        "title": "Messi raising the cup other angle 5",
+        "description": "Messi raising the cup other angle 5",
+        "urlImage": "/static/world-cup-2022/arg-champion/15.webp"
+      },
+      {
+        "title": "Messi and Di Maria with the cup",
+        "description": "Messi and Di Maria with the cup",
+        "urlImage": "/static/world-cup-2022/arg-champion/16.webp"
+      }
+    ]
+  }
+}
