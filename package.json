@@ -1,0 +1,21 @@
+{
+  "name": "apimessi",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20230922.0",
+    "typescript": "5.2.2",
+    "vitest": "0.34.6",
+    "wrangler": "3.10.1"
+  },
+  "private": true,
+  "scripts": {
+    "api:dev": "wrangler dev api/index.ts",
+    "api:deploy": "wrangler deploy",
+    "start": "wrangler dev",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "hono": "3.7.2",
+    "ts-standard": "12.0.2"
+  }
+}

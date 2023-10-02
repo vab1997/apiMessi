@@ -1,0 +1,6 @@
+name = "apimessi"
+main = "api/index.ts"
+compatibility_date = "2023-09-29"
+
+[site]
+bucket="./assets"
