@@ -4,20 +4,6 @@ import { serveStatic } from 'hono/cloudflare-workers'
 
 import worldCup from '../db/data-world-cup.json'
 
-interface WorldCup {
-	[team: string]: {
-		team: string
-		'logo-team': string
-		images: {
-			title: string
-			description: string
-			urlImage: string
-		}[]
-	}
-}
-
-const dataWorldCup: WorldCup = worldCup 
-
 const app = new Hono();
 app.use('*', cors({ origin: '*' }))
 
@@ -30,15 +16,20 @@ app.get('/', (ctx) => {
 		},
 		{
 			url: '/world-cup/:team',
-			example: '/world-cup/saudi-arabia',
+			example: Object.keys(worldCup),
 			method: 'GET',
 			description: 'Get images of Messi in Argentina vs Saudi-Arabia in the world cup 2022'
+		},
+		{
+			url: '/world-cup/arg-champion',
+			method: 'GET',
+			description: 'Get images of Messi when Argentina won the world cup 2022'
 		}
 	])
 })
 
 app.get('/world-cup', (ctx) => {
-	return ctx.json(dataWorldCup)
+	return ctx.json(worldCup)
 })
 
 app.get('/world-cup/:team', (ctx) => {
@@ -50,7 +41,7 @@ app.get('/world-cup/:team', (ctx) => {
 		return ctx.json({ error: 'Team not found' })
 	}
 
-	const teamImages = dataWorldCup[reqTeam]
+	const teamImages = worldCup[reqTeam as keyof typeof worldCup]
 
 	return ctx.json({ team: teamImages })
 })
